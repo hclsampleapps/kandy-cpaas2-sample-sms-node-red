@@ -12,7 +12,7 @@ Your system should have the following installed to complete pass this project:
 ### Setup
 1. To setup the project repository, run these commands
 ```bash
-git clone https://github.com/hclsampleapps/kandy-cpaas2-sample-2fa-node-red.git
+git clone https://github.com/hclsampleapps/kandy-cpaas2-sample-sms-node-red.git
 cd kandy-cpaas2-sample-sms-node-red
 ```
 2. To install nodered, run these commands
